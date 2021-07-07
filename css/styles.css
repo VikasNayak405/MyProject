@@ -1,0 +1,124 @@
+body {color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather",serif;
+}
+
+h1 {font-size: 90px;
+  color: #66BFBF;
+  margin-top: 50px auto 0 auto;
+  width: 10% auto 0 auto 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   color: #66BFBF;
+   font-weight: normal;
+   padding-bottom: 15px;}
+
+h3 {font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;}
+
+.top-container {background-color: #346751;
+    position: relative;
+    padding-top: 100px;
+  }
+
+.vikas {border-radius: 100%;}
+
+.html {border-radius: 100%;
+   width: 30%;
+   float: left;
+   margin-right: 30px;
+ }
+
+.css {border-radius: 100%;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  font-size: 20px;
+  line-height: 2;
+}
+
+p {line-height: 2;
+   font-size: 1.5rem;}
+
+hr {border: dotted green 6px;
+  border-bottom: none;
+  width: 4%;}
+
+a {color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px;
+  text-decoration: none;}
+
+a:hover {color: #EAF6F6;}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 40px;
+  margin: 100px auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+ }
+
+.bottom-container {
+  background: #66BFBF;
+  padding: 50px 0 20px;
+ }
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {width: 40%;
+  margin: 40px auto 60px;
+  font-size: 20px;}
+
+.copyright {color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px;}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 11px 20px 12px 20px;
+  border: solid #2c98db 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2BC4AD;
+  text-decoration: none;
+}
